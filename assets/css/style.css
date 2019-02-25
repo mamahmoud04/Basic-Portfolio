@@ -1,0 +1,140 @@
+body{
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/dark-honeycomb.png");
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+   margin-left:40px;
+   
+
+}
+ nav ul{
+    float: right;
+    margin:0;
+    padding: 0;
+    list-style-type: none
+}
+ nav li{
+    display: inline-block;
+    margin: 10px;
+    padding-right: 10px;
+
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    background: white
+  }
+
+
+header {
+    background-color:rgb(72, 143, 131);
+    color:black;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 25px;
+    width: 100%;
+    font: 30px;
+}
+footer{
+    background: gray;
+    height: 35px;
+    padding-top: 20px;
+    width:100%;
+    text-align:center ;
+    margin-top: 230px;
+    font:3px;
+
+
+}
+p{
+    font-size:20px;
+    margin-bottom: 40px;
+    margin-left: 250px;
+}
+h2 {
+    font-size: 40px;
+    color:black ;
+}
+ div{
+     background-color: white; 
+ }
+ .container_name{
+     font:40px;
+ }
+ .wrapper{
+float:left ;
+}
+span.name{
+    background: gray;
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+}
+.feature{
+    background:white;
+    color:black;
+}
+figure{
+    display: inline-block;
+        border: 100PX;
+        border-color:black; 
+        margin-right: 10px;
+     }
+     figcaption {
+        margin:0 px;
+        text-align: center;
+        padding: 12px 0;
+        width: 100%;
+        background-color:silver;
+        color:black;
+        opacity: 1;
+    }
+strong{
+    background: silver; 
+    padding-bottom: 6px;
+}
+textarea {
+    height: 200px;
+    width: 95%;
+}
+label{
+    background:gray;
+    color: black;
+    font-size: 30px;
+  
+}
+input{
+    border: 10%;
+    color: black;
+    margin-bottom: 40px;
+    width: 95%;
+
+}
+button{
+    background:gray;
+    text-decoration: none;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 40px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    height: 35px;
+    
+}
+button:hover{
+    background: orangered;
+}
+#myName{
+    height: 30px;
+    border: auto;
+    color: black
+}
+#myEmail{
+    height: 30px;
+    border: auto;
+    color: black;
+}
